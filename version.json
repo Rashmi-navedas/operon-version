@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "notes": "Adds per-agent deactivation with dependency warnings and benchmark previews.",
+  "releasePage": "https://github.com/Rashmi-navedas/operon-installer/releases/tag/v1.0.1"
+}
